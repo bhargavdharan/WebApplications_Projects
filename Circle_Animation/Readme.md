@@ -1,5 +1,3 @@
-Access this URL for Project Preview : https://main--dharanwebprojects.netlify.app/
-
 # 🎯 Circle Animation Project
 
 This is a beginner-friendly web animation project using only **HTML and CSS**.
